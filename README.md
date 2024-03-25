@@ -6,6 +6,8 @@ Manually annotated dataset of Finnish varieties in the Suomi24, the largest Finn
 The manual annotations are located in the folder `S24`, with standard vs. non-standard Finnish data in one subfolder and the final dialect identification in the other subfolder. 
 Messages are originally from the Suomi24 forum and must be attributed accordingly: https://www.kielipankki.fi/corpora/suomi24/.
 
+The manual and automatic annotation have different labels from the paper: colloquial = CO, epj = SO, häme = HÄ, kaakko = SE, kpj = NO, lounais = SW, ppj = FN, savo = SA, stadi = HE.
+
 ## Additional training data
 There are three additional datasets used for training:
 

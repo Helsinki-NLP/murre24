@@ -29,4 +29,5 @@ The results of the automatic annotation are presented as message id's in the fol
 The scripts for classification and evaluation are presented in the folder `scripts`.
 
 ## Citation
-Citation instructions will be added once the paper is published in the Proceedings.
+Olli Kuparinen. 2024. Murre24: Dialect Identification of Finnish Internet Forum Messages. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 12003–12015, Torino, Italy. ELRA and ICCL.
+https://aclanthology.org/2024.lrec-main.1048/
